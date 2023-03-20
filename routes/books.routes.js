@@ -5,7 +5,7 @@ const booksRouter = express.Router();
 
 booksRouter.get('/', async (req, res, next) => {
     try {
-        const allBooks = await Product.find();
+        const allBooks = await Book.find();
         return res.status(200).json(allBooks);
     } catch (error) {
         next(error)
