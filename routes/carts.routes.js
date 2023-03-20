@@ -1,6 +1,6 @@
 const express = require('express');
 const Cart = require('../models/Carts.js');
-const createError = require ('../utils/errors/create-errors.js');
+const createError = require ('../utils/errors/create-error.js');
 const isAuthAdmin = require ('../utils/middlewares/auth-jwt-role.middleware.js');
 const uploadToCloudinary = require('../utils/middlewares/cloudinary.middleware.js')
 
