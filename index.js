@@ -5,6 +5,7 @@ const booksRouter = require('./routes/books.routes.js');
 const garmentsRouter = require('./routes/garments.routes.js');
 const toysRouter = require('./routes/toys.routes.js');
 const videogamesRouter = require('./routes/videogames.routes.js');
+const cartsRouter = require('./routes/carts.routes.js');
 const connect = require('./utils/db/connect.js');
 const cors = require ('cors');
 const createError = require('./utils/errors/create-error.js');
