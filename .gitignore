@@ -1,3 +1,7 @@
 /node_modules
 .env
 products.seed.js
+books.seed.js
+garments.seed.js
+toys.seed.js
+videogames.seed.js

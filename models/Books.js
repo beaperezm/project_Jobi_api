@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const productSchema = new mongoose.Schema(
+const bookSchema = new mongoose.Schema(
     {
         name: { type: String, required: true, unique: true },
         image: { type: String, required: true },
@@ -19,22 +19,13 @@ const productSchema = new mongoose.Schema(
         languague: String,
         bookbinding: String,
         yearEdition: Number,
-        isbn: Number,
-        size: String,
-        color: String,
-        platform: String,
-        decades: String,
-        brand: String,
-        subcategory: String,
-        tags: { type: [String] },
-        materials: { type: [String] },
-        age: String
+        isbn: Number
     },
     {
         timestamps: true
     }
 );
 
-const Product = mongoose.model('Product', productSchema);
+const Book = mongoose.model('Book', bookSchema);
 
-module.exports = Product;
+module.exports = Book;

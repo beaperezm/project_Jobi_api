@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const productSchema = new mongoose.Schema(
+const garmentSchema = new mongoose.Schema(
     {
         name: { type: String, required: true, unique: true },
         image: { type: String, required: true },
@@ -12,29 +12,14 @@ const productSchema = new mongoose.Schema(
                 } },
         description: String,
         stock: { type: Number, required: true},
-        type: [String],
-        author: [String],
-        pages: Number,
-        editorial: String,
-        languague: String,
-        bookbinding: String,
-        yearEdition: Number,
-        isbn: Number,
         size: String,
-        color: String,
-        platform: String,
-        decades: String,
-        brand: String,
-        subcategory: String,
-        tags: { type: [String] },
-        materials: { type: [String] },
-        age: String
+        color: String
     },
     {
         timestamps: true
     }
 );
 
-const Product = mongoose.model('Product', productSchema);
+const Garment = mongoose.model('Garment', garmentSchema);
 
-module.exports = Product;
+module.exports = Garment;

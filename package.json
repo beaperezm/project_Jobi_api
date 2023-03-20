@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "start:live": "nodemon index.js",
-    "populate:products": "node ./utils/seeds/products.seed.js"
+    "populate:products": "node ./utils/seeds/products.seed.js",
+    "populate:toys": "node ./utils/seeds/toys.seed.js",
+    "populate:garments": "node ./utils/seeds/garments.seed.js",
+    "populate:books": "node ./utils/seeds/books.seed.js",
+    "populate:videogames": "node ./utils/seeds/videogames.seed.js"
   },
   "keywords": [],
   "author": "",
