@@ -40,6 +40,23 @@ productsRouter.get('/name/:name', async (req, res, next) => {
     }
 });
 
+productsRouter.get('/category/:category', async (req, res, next) => {
+    const categoryProduct = req.params.category;
+    try {
+        const product = await Product.find(
+            { 
+                category: { $in: categoryProduct }
+            },
+        );
+        if (product.length === 0) {
+            return next(createError(`No hay ningún producto con esa categoría: ${categoryProduct}`, 404))
+        }
+        return res.status(200).json(product);
+    } catch (error) {
+        next(error)
+    }
+});
+
 productsRouter.post('/', async (req, res, next) => {
     try {
       const newProduct = new Product({ ...req.body });
