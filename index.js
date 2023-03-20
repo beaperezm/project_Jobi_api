@@ -60,7 +60,7 @@ server.use('/products', productsRouter);
 server.use('/user', userRouter);
 server.use('/videogames', videogamesRouter);
 server.use('/books', booksRouter);
-server.use('/clothes', clothesRouter);
+server.use('/clothes', garmentsRouter);
 server.use('/toys', toysRouter);
 server.use('/cart', cartsRouter)
 
