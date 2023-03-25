@@ -9,7 +9,7 @@ const getJWT = (userInfo, secretKey) => {
             name: userInfo.name,
             surname: userInfo.surname,
             phone: userInfo.phone,
-            picture: userInfo.picture
+            avatar: userInfo.avatar
         },
         process.env.JWT_SECRET_KEY,
         {

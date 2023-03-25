@@ -14,7 +14,7 @@ const userSchema = new mongoose.Schema({
     surname: {type: String},
     phone: {type: Number},
     role: {type: String, enum: ['administrador', 'usuario']},
-    picture: String,
+    avatar: String,
     cart: [{ type: mongoose.Types.ObjectId, ref: 'Cart' }]
 }, {
     timestamps: true
