@@ -32,10 +32,12 @@ cartsRouter.get('/:id', async (req, res, next) => {
 
 
 cartsRouter.post('/', async (req, res, next) => {
+    console.log(req.body);
     try {
         const newProductCart = new Cart({ ...req.body });
         const createdProductCart = await newProductCart.save();
         return res.status(201).json(createdProductCart);
+
         } catch (err) {
         next(err);
     }
