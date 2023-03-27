@@ -2713,5 +2713,23 @@
         "description": "Esta es la clásica camioneta Tonka Bronze Step Side Pickup No. 02 de 1959. Tiene 13 pulgadas de largo y el acabado original. Por supuesto, Tonka fabricado en Minnesota, está diseñado para durar para siempre.",
         "image": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1679263205/juguetes/tonkapickup_jsx8yl.jpg",
         "stock": 3
+      },
+      {
+        "name": "Los crímenes de Hamlet",
+        "image": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1679918194/libros/los_crimenes_hamlet_rbv1x5.jpg",
+        "price": 22.70,
+        "lowPrice": 15.70,
+        "description": "Una escalofriante novela de terror con tintes sobrenaturales que te atrapará hasta el final. Con setenta años cumplidos, Hamlet, el famoso asesino en serie, pasa los días sumido en el oscuro sueño de volver a pintar las turbadoras escenas que quitan el sueño a la policía. Lleva veinte años recluido en una cárcel de máxima seguridad, pero, a pesar de ello, ha aparecido un nuevo cadáver con su inconfundible firma en el tranquilo y apartado valle de Caín. El trágico suceso ha despertado al Cortador, un ser diabólico y sanguinario que, según la creencia popular, solo vivía en viejas leyendas. Hasta ahora... El Cortador y su séquito han acudido a la llamada de la sangre y reclaman sus dominios en el bosque con su particular firma: corta brazos y piernas. Hamlet y la mujer más anciana del lugar son las únicas personas que pueden ayudar a la policía a desentrañar el caso.",
+        "type": "Novela de terror",
+        "author": ["Malenka Ramos"],
+        "pages": 408,
+        "editorial": "Contraluz Editorial",
+        "languague": "castellano",
+        "bookbinding": "Tapa dura",
+        "yearEdition": 2023,
+        "isbn": 9788418945557,
+        "category": "libros",
+        "stock": 10
       }
+
 ]
