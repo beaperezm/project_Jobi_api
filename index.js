@@ -14,7 +14,9 @@ const userRouter = require('./routes/user.routes.js');
 const session = require('express-session');
 const MongoStore = require('connect-mongo');
 const path = require('path');
-const cloudinary = require('cloudinary')
+const cloudinary = require('cloudinary');
+
+
 
 const DB_URL = process.env.DB_URL;
 
