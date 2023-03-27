@@ -3,7 +3,8 @@ const mongoose = require('mongoose');
 const cartSchema = new mongoose.Schema(
     {
         products: { type:[{}] },
-        user: { type: String }
+        user: { type: String },
+        total: { type: Number }
     },
     {
         timestamps: true
