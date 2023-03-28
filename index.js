@@ -1,6 +1,7 @@
 require('dotenv').config();
 const express = require('express');
 const productsRouter = require('./routes/products.routes.js');
+const discountedProductsRouter = require('./routes/discountedProducts.routes.js');
 const booksRouter = require('./routes/books.routes.js');
 const garmentsRouter = require('./routes/garments.routes.js');
 const toysRouter = require('./routes/toys.routes.js');
@@ -60,6 +61,7 @@ server.get('/', (req, res) => {
   res.json("Bienvenidx a Jobi - nuestra API e-commerce");
 })
 server.use('/products', productsRouter);
+server.use('/discountedProducts', discountedProductsRouter);
 server.use('/user', userRouter);
 server.use('/videogames', videogamesRouter);
 server.use('/books', booksRouter);
