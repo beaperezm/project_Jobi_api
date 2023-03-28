@@ -1,0 +1,145 @@
+[
+    {
+        "name": "El cuco de cristal",
+        "image": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1678913466/libros/cuco_cristal_vkdzwn.jpg",
+        "price": 19.85,
+        "lowPrice": 10.00,
+        "description": "Un trasplante de urgencia. Un donante lleno de secretos. ¿Qué esconden los latidos de tu corazón?. Nueva York, 2017. Cora Merlo, médico residente de primer año, sufre un infarto fulminante que la obliga a un trasplante de corazón. Aún convaleciente la joven recibe la visita de una extraña mujer con una enigmática oferta: pasar unos días en Steelville, un pequeño pueblo de interior, para conocer la vida de su hijo Charles, el donante de su corazón. Cora se adentra así en un hogar lleno de secretos, en un misterio que se extiende durante veinte años y en un pueblo hermético en el que, justo el día de su llegada, desaparece un bebé en un parque público.",
+        "type": "Novela negra",
+        "author": [
+            "Javier Castillo"
+        ],
+        "pages": 488,
+        "editorial": "Suma",
+        "languague": "castellano",
+        "bookbinding": "Tapa blanda",
+        "yearEdition": 2023,
+        "isbn": 9788491293552,
+        "category": "libros",
+        "stock": 1
+    },
+    {
+        "name": "Los crímenes de Hamlet",
+        "image": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1678913070/libros/la_secta_suker9.jpg",
+        "price": 22.00,
+        "lowPrice": 11.00,
+        "description": "Una escalofriante novela de terror con tintes sobrenaturales que te atrapará hasta el final. Con setenta años cumplidos, Hamlet, el famoso asesino en serie, pasa los días sumido en el oscuro sueño de volver a pintar las turbadoras escenas que quitan el sueño a la policía. Lleva veinte años recluido en una cárcel de máxima seguridad, pero, a pesar de ello, ha aparecido un nuevo cadáver con su inconfundible firma en el tranquilo y apartado valle de Caín. El trágico suceso ha despertado al Cortador, un ser diabólico y sanguinario que, según la creencia popular, solo vivía en viejas leyendas. Hasta ahora... El Cortador y su séquito han acudido a la llamada de la sangre y reclaman sus dominios en el bosque con su particular firma: corta brazos y piernas. Hamlet y la mujer más anciana del lugar son las únicas personas que pueden ayudar a la policía a desentrañar el caso.",
+        "type": "Novela de terror",
+        "author": ["Malenka Ramos"],
+        "pages": 408,
+        "editorial": "Contraluz Editorial",
+        "languague": "castellano",
+        "bookbinding": "Tapa dura",
+        "yearEdition": 2023,
+        "isbn": 9788418945557,
+        "category": "libros",
+        "stock": 10
+      },
+      {
+        "name": "Una luz en la noche de Roma",
+        "image": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1679937236/libros/noche_roma_bfiidv.jpg",
+        "price": 24.00,
+        "lowPrice": 12.00,
+        "description": "En el verano de 1943, Gina, una estudiante de familia acomodada, se enamora perdidamente de Betto, un intrépido muchacho judío que forma parte de una organización clandestina. Entre ambos surge una original, intensa y prohibida relación que transcurre en el devenir de una de las tragedias más impresionantes de la historia reciente de Europa. Tras la estrambótica caída de Mussolini, Roma se precipita hacia una tormenta de violencia que culminará con la ocupación de la ciudad por las tropas de Hitler. Por otra parte, cuando las SS se disponen a capturar a todos los judíos del barrio hebreo, en el hospital de la isla Tiberina será ideado un sofisticado engaño para salvar a un buen número de personas: el llamado «Síndrome K». La idea de narrar esta formidable historia surge cuando alguien se puso en contacto con el escritor Jesús Sánchez Adalid y le informó de la existencia de unos documentos de valor inestimable. Nadie sabe por qué motivo estos datos históricos permanecían sin salir a la luz desde hace ocho décadas, guardados en el secreto de algunos archivos de la Segunda Guerra Mundial. Tras una investigación apasionante, Sánchez Adalid encontró a los descendientes de los protagonistas reales, los cuales le proporcionaron el fantástico elenco de testimonios, revelaciones, nombres, fechas y anécdotas que componen el cuerpo de la narración. Una mezcla de amor, heroísmo y generosidad, donde hay lugar para la ternura y la belleza. Porque, curiosamente, a pesar del peligro de los bombardeos y las amenazas constantes, la ópera, los teatros, los cines y los cafés romanos siguen abiertos invariablemente. Aun en los momentos más trágicos, Roma no renuncia a su esencia eterna y vital. Esta es la historia real de unos hombres y mujeres que tuvieron que enfrentarse a los acontecimientos más extraños, infaustos y peligrosos que puedan darse en la existencia. Pero es en la mayor adversidad cuando sale y resplandece lo mejor del alma humana.",
+        "type": "Novela contemporánea",
+        "author": ["Jesús Sánchez Adalid"],
+        "pages": 576,
+        "editorial": "HarperCollins",
+        "languague": "castellano",
+        "bookbinding": "Tapa dura",
+        "yearEdition": 2023,
+        "isbn": 9788491398127,
+        "category": "libros",
+        "stock": 8
+      },
+      {
+        "name": "Donde todo brilla",
+        "image": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1679945514/libros/donde_todo_brilla_tlcgdf.jpg",
+        "price": 18.90,
+        "lowPrice": 10.00,
+        "description": "¿Y si lo único que necesitamos para ser felices es descubrir el brillo de las cosas intangibles?Nicki Aldrich y River Jackson han sido inseparables desde que llegaron al mundo con cuarenta y siete minutos de diferencia. Ella lo hizo envuelta en polvo de hadas. Él como si fuese un meteoro en llamas. El pequeño pueblo costero donde crecieron se convirtió en el escenario de sus paseos en bicicleta, las tardes en la casa del árbol y los primeros amores, secretos y dudas. Sin embargo, con el paso de los años, River sueña con escapar de aquel rincón perdido donde todo gira alrededor de la tradicional pesca de langosta y Nicki anhela encontrar su lugar en el mundo. Pero ¿qué ocurre cuando nada sale como lo habían planeado? ¿Es posible elegir dos caminos distintos y, pese a todo, encontrarse en el final del trayecto? Para lograrlo, River y Nicki tendrán que bucear en las profundidades del corazón, rescatar pedazos de lo que fueron y entender aquello que rompieron. Y quizá así, uniendo y encajando cada fragmento, logren descubrir quiénes son ahora y recordar el brillo de las cosas intangibles.",
+        "type": "Novela romántica",
+        "author": [
+            "Alicia Kellen"
+        ],
+        "pages": 592,
+        "editorial": "Planeta",
+        "languague": "castellano",
+        "bookbinding": "Tapa dura",
+        "yearEdition": 2023,
+        "isbn": 9788408269281,
+        "category": "libros",
+        "stock": 5
+    },
+    {
+        "name": "CAMISETA COMBINADA PLIEGUES",
+        "image": "https://static.zara.net/photos///2023/V/0/1/p/4770/157/250/2/w/2048/4770157250_6_2_1.jpg?ts=1679653429418",
+        "price": 35.95,
+        "lowPrice": 11.00,
+        "category": "ropa",
+        "description": "Camiseta de cuello redondo y manga corta. Detalle de aplicación de tejido a tono con pliegues.",
+        "stock": 76,
+        "size": "M",
+        "color": "blanco"
+       },
+       {
+        "name": "CAMISETA CHICA",
+        "image": "https://static.zara.net/photos///2023/V/0/1/p/5644/040/250/2/w/2048/5644040250_6_1_1.jpg?ts=1679662833880",
+        "price": 35.95,
+        "lowPrice": 11.00,
+        "category": "ropa",
+        "description": "Camiseta de cuello redondo y manga corta. Detalle de estampación de chica en delantero.",
+        "stock": 17,
+        "size": "S",
+        "color": "blanco"
+       },
+       {
+        "name": "CAMISETA EFECTO LAVADO",
+        "image": "https://static.zara.net/photos///2023/V/0/1/p/4174/338/700/2/w/4144/4174338700_6_1_1.jpg?ts=1679589908417",
+        "price": 45.95,
+        "lowPrice": 21.00,
+        "category": "ropa",
+        "description": "Camiseta de cuello redondo y manga corta. Tejido efecto lavado.",
+        "stock": 25,
+        "size": "S",
+        "color": "marrón"
+       },
+       {
+        "name": "CAMISETA CORTA ALGODÓN RAYAS",
+        "image": "https://static.zara.net/photos///2023/V/0/1/p/2335/164/044/2/w/475/2335164044_6_1_1.jpg?ts=1679578126371",
+        "price": 45.95,
+        "lowPrice": 21.00,
+        "category": "ropa",
+        "description": "Camiseta corta confeccionada en algodón. Cuello redondo y manga corta.",
+        "stock": 29,
+        "size": "S",
+        "color": "azul/blanco"
+       },
+       {
+        "name": "Battlefield 2042",
+        "image": "https://cdn1.epicgames.com/offer/52f57f57120c440fad9bfa0e6c279317/EGS_Battlefield2042_DICE_S1_2560x1440-36f16374c9c29a18a46872795b483d72_2560x1440-36f16374c9c29a18a46872795b483d72",
+        "price": 59.98,
+        "lowPrice": 40.00,
+        "category": "videojuegos",
+        "description": "En un mundo en el futuro cercano transformado por el desorden, adáptate y sobrevive con la ayuda de tu patrulla y un arsenal de vanguardia en campos de batalla en constante cambio.",
+        "stock": 5,
+        "platform": "PS5"
+    },
+    {
+        "name": "Pickup Truck No. 02",
+        "decades": "1960-1970",
+        "brand": "Tonka",
+        "category": "juguetes",
+        "subcategory": "coches, camiones y pistas",
+        "tags": ["vintage", "pesado", "Estados Unidos"],
+        "materials": ["metal", "plástico"],
+        "age": "6+",
+        "price": 291.3,
+        "lowPrice": 200.0,
+        "description": "Esta es la clásica camioneta Tonka Bronze Step Side Pickup No. 02 de 1959. Tiene 13 pulgadas de largo y el acabado original. Por supuesto, Tonka fabricado en Minnesota, está diseñado para durar para siempre.",
+        "image": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1679263205/juguetes/tonkapickup_jsx8yl.jpg",
+        "stock": 3
+      }
+
+   
+]
